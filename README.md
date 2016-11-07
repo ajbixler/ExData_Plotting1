@@ -1,3 +1,8 @@
+## Notes on my submission
+* I have uploaded the plots and code as required.  
+* I have commented out the download and unzip lines.  
+* My files assume you have the data in a 'data' folder within the working directory and that it's a text file titled 'household_power_consumption.txt'
+
 ## Introduction
 
 This assignment uses data from
